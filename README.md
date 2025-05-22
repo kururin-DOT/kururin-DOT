@@ -4,7 +4,7 @@
  - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.
  - Período: Primeiro Período ๐•ᴗ•๐.
  - Linguagens na qual tenho contato atualmente (ᕑᗢᓫ∗)˒ 
->1. Python <img src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+>1. Python <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 >2. Javascript <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 - Meios para entrar em contato |•'-'•) ✧
 
