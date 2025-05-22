@@ -15,6 +15,7 @@
 > 3. Desenvolvimento do front-end;
 
 - Projetos na qual houve minha contribuição *⸜( •ᴗ• )⸝*
+  
   >1. Mentes em Jogo (projetos 1);
   >2. Projeto CRUD;
   >3. Desenvolvimento de jogos na forma No-Code: "One Last Wish";
