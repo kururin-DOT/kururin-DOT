@@ -1,5 +1,10 @@
 # ʕง•ᴥ•ʔง Oiii! Bem vindo ao perfil de Sofia Pan Yu!
 
+> "Mocktails, mixers, ice, the snacks are real nice/
+> Soda, sour-mix, dry, I'm lit, you can't deny"
+> - Burnice
+
+
 ## Informações sobre Sofia
  - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.
  - Período: Primeiro Período ๐•ᴗ•๐.
