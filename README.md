@@ -2,7 +2,7 @@
 
 > "Mocktails, mixers, ice, the snacks are real nice  
 > Soda, sour-mix, dry, I'm lit, you can't deny"
-> - Burnice
+> -Burnice
 
 
 ## Informações sobre Sofia
