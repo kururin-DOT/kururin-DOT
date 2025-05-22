@@ -15,6 +15,6 @@
 > 3. Desenvolvimento do front-end;
 <div>
  <a href="https://github.com/kururin-DOT">
- <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kururin-DOT&hide=html&layout=compact&theme=default">
+ <img src="https://github-readme-stats.vercel.app/api?username=kururin-DOT&theme=default&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kururin-DOT&hide=html&layout=compact&theme=default">
  
 </div>
