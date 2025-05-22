@@ -1,6 +1,6 @@
 # ʕง•ᴥ•ʔง Oiii! Bem vindo ao perfil de Sofia Pan Yu!
 
-> "Mocktails, mixers, ice, the snacks are real nice/
+> "Mocktails, mixers, ice, the snacks are real nice  
 > Soda, sour-mix, dry, I'm lit, you can't deny"
 > - Burnice
 
