@@ -12,6 +12,7 @@
 - Interreses na área atualmente:
 > 1. Trabalhar com a parte de QA ou algo relacionado com Hardware;
 > 2. Pesquisa científica;
+> 3. Desenvolvimento do front-end;
 
 
 
