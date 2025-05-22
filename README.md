@@ -13,8 +13,14 @@
 > 1. Trabalhar com a parte de QA ou algo relacionado com Hardware;
 > 2. Pesquisa científica;
 > 3. Desenvolvimento do front-end;
+
+- Projetos na qual houve minha contribuição *⸜( •ᴗ• )⸝*
+  >1. Mentes em Jogo (projetos 1);
+  >2. Projeto CRUD;
+  >3. Desenvolvimento de jogos na forma No-Code: "One Last Wish";
+
+## Estatísticas ꉂ(ˊᗜˋ*)
 <div>
  <a href="https://github.com/kururin-DOT">
  <img src="https://github-readme-stats.vercel.app/api?username=kururin-DOT&theme=default&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kururin-DOT&hide=html&layout=compact&theme=default">
- 
 </div>
