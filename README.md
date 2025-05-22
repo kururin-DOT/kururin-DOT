@@ -13,5 +13,8 @@
 > 1. Trabalhar com a parte de QA ou algo relacionado com Hardware;
 > 2. Pesquisa científica;
 > 3. Desenvolvimento do front-end;
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <a href="https://github.com/kururin-DOT">
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default"
+ 
+</div>
