@@ -6,7 +6,7 @@
 
 
 ## 🪪Informações sobre Sofia
- - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.                                           ![Image height="100"](https://github.com/user-attachments/assets/9fb93b70-3ef8-428a-bf80-a5b9256eb1f7)
+ - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.                                           
  - Período: Primeiro Período ๐•ᴗ•๐.
  - Linguagens na qual tenho contato atualmente (ᕑᗢᓫ∗)˒ 
 >1. <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
