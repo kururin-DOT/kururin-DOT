@@ -6,7 +6,7 @@
 
 
 ## 🪪Informações sobre Sofia
- - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.                                            <img src="https://github.com/kururin-DOT/kururin-DOT/blob/main/image/Design%20sem%20nome.gif" width="400px" image align="right"> <p align="right">-Créditos a @yane_1103</p>
+ - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.                                            <img src="https://github.com/kururin-DOT/kururin-DOT/blob/main/image/Design%20sem%20nome.gif" width="400px" image align="right"> 
  - Período: Primeiro Período ๐•ᴗ•๐.
  - Linguagens na qual tenho contato atualmente (ᕑᗢᓫ∗)˒ 
 >1. <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -29,3 +29,6 @@
  <a href="https://github.com/kururin-DOT">
  <img src="https://github-readme-stats.vercel.app/api?username=kururin-DOT&theme=default&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kururin-DOT&hide=html&layout=compact&theme=default">
 </div>
+
+- Créditos das imagens:
+  > @yane_1103 para o icon
