@@ -22,7 +22,7 @@
 ## - 🖨️Projetos na qual houve minha contribuição *⸜( •ᴗ• )⸝* :
 >1. Mentes em Jogo (projetos 1);
 >2. <a href="https://github.com/kururin-DOT/Crossfit">Projeto CRUD (crossfit)</a>;
->3. Desenvolvimento de jogos na forma No-Code: "<b href="https://rafa-cappetta.itch.io/one-last-wish">One Last Wish</b>";
+>3. Desenvolvimento de jogos na forma No-Code: "<a href="https://rafa-cappetta.itch.io/one-last-wish">One Last Wish</a>";
 
 ## 📊Estatísticas ꉂ(ˊᗜˋ*)
 <div>
