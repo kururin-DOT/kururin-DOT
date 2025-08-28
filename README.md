@@ -7,7 +7,7 @@
 
 ## 🪪Informações sobre Sofia
  - Atualmente curso Ciências da Computação na CESAR SCHOOL ꉂꉂ꒰•̤▿•̤*ૢ꒱.                                            <img src="https://github.com/kururin-DOT/kururin-DOT/blob/main/image/Design%20sem%20nome.gif" width="400px" image align="right"> 
- - Período: Primeiro Período ๐•ᴗ•๐.
+ - Período: Segundo Período ๐•ᴗ•๐.
  - Linguagens na qual tenho contato atualmente (ᕑᗢᓫ∗)˒ 
 >1. <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 >2. <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -32,3 +32,4 @@
 
 - Créditos das imagens:
   > @yane_1103 para o icon
+
