@@ -17,7 +17,7 @@
 ## - 📫Interreses na área atualmente ᓫ(°⌑°)ǃ:
 > 1. Trabalhar com a parte de QA ou algo relacionado com Hardware;
 > 2. Pesquisa científica;
-> 3. Desenvolvimento do front-end;
+> 3. Desenvolvimento do back-end;
 
 ## - 🖨️Projetos na qual houve minha contribuição *⸜( •ᴗ• )⸝* :
 >1. Mentes em Jogo (projetos 1);
@@ -32,4 +32,5 @@
 
 - Créditos das imagens:
   > @yane_1103 para o icon
+
 
