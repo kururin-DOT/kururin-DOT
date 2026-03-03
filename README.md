@@ -13,4 +13,6 @@
 <div>
  <a href="https://github.com/kururin-DOT">
  <img src="https://github-readme-stats.vercel.app/api?username=kururin-DOT&theme=default&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kururin-DOT&hide=html&layout=compact&theme=default">
+ </a>
 </div>
+
